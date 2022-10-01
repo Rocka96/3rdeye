@@ -28,7 +28,7 @@ async function sendSMS(type) {
         "user_id": "23534",
         "api_key": "VNDAusGquwyAHZttBG1T",
         "sender_id": "NotifyDEMO",
-        "to":"94777724874",
+        "to":"94777334869",
         "message": "`+msg+`"
     }`;
 
@@ -36,4 +36,3 @@ async function sendSMS(type) {
     console.log("send fun called")
 }
 
-// https://app.notify.lk/api/v1/send?user_id=23534&api_key=VNDAusGquwyAHZttBG1T&sender_id=NotifyDEMO&to=94777334869&message=Test one
