@@ -22,8 +22,6 @@ async function sendSMS(type) {
         msg="Hello, 3rd EYE Surveillance System was detected an abnormal situation. Plz check back.";
     }
 
-    // let uid=process.env.USER_ID;
-    // let api_key=process.env.API_KEY;
     var data = `{
         "user_id": "23534",
         "api_key": "VNDAusGquwyAHZttBG1T",
